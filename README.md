@@ -1,2 +1,12 @@
 # Programming-Exercises
-Includes classwork and online programming exercises 
+
+Includes  
+## Classwork
+Programming III  
+Data Structures
+
+## Online programming exercises  
+Geeksforgeeks  
+Leetcode  
+HackerRank  
+CodingBat  
